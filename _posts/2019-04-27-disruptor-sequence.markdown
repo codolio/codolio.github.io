@@ -64,7 +64,7 @@ sampleDisruptor.start();
 * 构建并设置Event Handler；
 * 启动Disrutpor。<br/>
 
-处理流程时序图如下：<br/>
+处理流程时序图如下（基于Disruptor 3.4.2版本）：<br/>
 ![Disruptor处理流程](/assets/images/disruptor_sequence.png)
 
 说明如下：<br/>
